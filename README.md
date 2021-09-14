@@ -36,7 +36,7 @@ This repository contains the code for Car Detection and Color Classification.
 ### Requirements and Implementation
 - All the requirements can be installed by running the command `pip3 install -r requirements.txt`
 
-- You can add a video of your choice in [sample_videos]() or use the default video
+- You can add a video of your choice in [sample_videos](https://github.com/shrenik-jain/car-color-detection/tree/main/sample_videos) or use the default video
 
 - Running the command `python3 color_classification.py` would execute the code
 
