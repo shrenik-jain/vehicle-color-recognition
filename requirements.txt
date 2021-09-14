@@ -1,0 +1,6 @@
+Pillow==8.3.2
+os-sys==2.1.4 
+opencv-python==4.5.3.56
+numpy==1.21.2
+matplotlib==3.4.3
+scipy==1.7.1
